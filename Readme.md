@@ -53,8 +53,8 @@ After applying the Terraform configuration, key outputs such as the load balance
 ## Contributing
 Contributions are welcome! Feel free to fork the repository, submit issues, or create pull requests.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Note
+please modify the value of path in targetgroup.tf from /health to /.
 
 ## Author
 Created by vardhan reddy.
