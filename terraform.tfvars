@@ -1,0 +1,12 @@
+vpc_cidr = "10.10.0.0/16"
+region="us-east-1"
+pub_subnet1_cidr ="10.10.1.0/24"
+pub_subnet2_cidr = "10.10.2.0/24"
+priv_subnet1_cidr = "10.10.3.0/24"
+priv_subnet2_cidr = "10.10.4.0/24"
+az1="us-east-1a"
+az2="us-east-1b"
+s3_bucket_name ="tf-s3bucket-vardhan-practice"
+key="awspractice"
+instance_type ="t2.micro"
+
